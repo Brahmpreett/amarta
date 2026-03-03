@@ -1,73 +1,84 @@
-# Welcome to your Lovable project
+# Amarta
 
-## Project info
+Amarta is a modern web-based robotics development platform that converts human language into executable robotics code and visual simulations.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+Live Application: https://amarta.vercel.app
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## Overview
 
-**Use Lovable**
+Amarta enables users to:
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+- Convert natural language instructions into robotics code
+- Visualize generated code in a 3D simulation environment
+- Test robotic logic virtually before deployment
+- Place hardware or robotics-related orders
+- Complete secure payments via integrated checkout systems
 
-Changes made via Lovable will be committed automatically to this repo.
+The platform is optimized for both web and mobile environments with a consistent, professional user interface.
 
-**Use your preferred IDE**
+---
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## Core Features
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+### Authentication
+- Secure login system
+- Google authentication support
 
-Follow these steps:
+### AI-Powered Code Generation
+- Human language to robotics code conversion
+- AI-assisted parsing and logic structuring
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+### 3D Virtual Testing Environment
+- Real-time 3D simulation
+- Interactive object manipulation
+- Visual debugging capability
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+### Orders & Payments
+- Order placement system
+- Secure checkout
+- Payment options:
+  - PayPal
+  - Credit/Debit Card
+  - UPI
 
-# Step 3: Install the necessary dependencies.
-npm i
+### UI/UX
+- Professional modern design
+- Clean, structured layout
+- Consistent footer across pages
+- Fully responsive (mobile + desktop)
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+---
 
-**Edit a file directly in GitHub**
+## Tech Stack
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+- Frontend: Modern JavaScript framework
+- 3D Engine: Three.js
+- Authentication: OAuth (Google)
+- AI Integration: Language-to-code processing API
+- Deployment: Vercel
 
-**Use GitHub Codespaces**
+---
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+## Architecture Concept
 
-## What technologies are used for this project?
+User Input → AI Processing → Robotics Code Generation → 3D Simulation → Deployment or Order Flow
 
-This project is built with:
+---
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+## Vision
 
-## How can I deploy this project?
+Amarta aims to simplify robotics development by removing complexity between human intent and machine execution, making advanced robotics accessible through natural language.
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+---
 
-## Can I connect a custom domain to my Lovable project?
+## Status
 
-Yes, you can!
+Active Development
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+---
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+## Access
+
+Visit: https://amarta.vercel.app
