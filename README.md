@@ -2,7 +2,7 @@
 
 Amarta is a modern web-based robotics development platform that converts human language into executable robotics code and visual simulations.
 
-Live Application: https://amarta.vercel.app
+Live Application: https://amartacore.vercel.app
 
 ---
 
