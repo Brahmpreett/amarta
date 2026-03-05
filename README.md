@@ -81,4 +81,4 @@ Active Development
 
 ## Access
 
-Visit: https://amarta.vercel.app
+Visit: https://amartacore.vercel.app
